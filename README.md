@@ -1,0 +1,2 @@
+# cloudflare-dns-updater-docker
+IPアドレスの変更を検出し、DDNSとして使用するためにCloudflare DNS設定を更新するDockerコンテナ
